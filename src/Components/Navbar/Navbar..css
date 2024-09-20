@@ -1,0 +1,32 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    padding: 1vw 3vw;
+}
+.logo{
+    font-size:2.7vw;
+    font-weight: 700;
+}
+.nav-menu{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    font-size: 1.2;
+    gap: 3.7vw;
+}
+.contact{
+    border-radius: 50px;
+    background-color: rgb(243, 247, 247);
+    padding: 5px 12px;
+    color: rgb(105, 104, 104);
+}
+.contact:hover{
+    background-color: rgb(49, 131, 185);
+    color: black;
+    
+}
+.image{
+    font-size: 2rem;
+}
